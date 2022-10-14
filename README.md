@@ -44,6 +44,7 @@ doi:
 
 ### RecA_filament_dynamics.m MATLAB script
 Written by Afroze Chimthanawala and Meghana Iyer
+
 This script carries out the following functions:
 1. Overlay segmentation from Oufti on the .tif file of RecA fluorescence data.
 2. Re-orients the segmented cell in order to align it parallel to the major axis (x-axis).
