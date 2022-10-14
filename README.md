@@ -43,9 +43,10 @@ doi:
 5. To align the all cells in a kymograph by the mid-cell position, use 'kympo_center_script.m' just after running 'RecA_filament_dynamics.m'.
 
 ### RecA_filament_dynamics.m MATLAB script
-
+Written by Afroze Chimthanawala and Meghana Iyer
 This script carries out the following functions:
 1. Overlay segmentation from Oufti on the .tif file of RecA fluorescence data.
 2. Re-orients the segmented cell in order to align it parallel to the major axis (x-axis).
 3. Straightens the cells, as caulobacter cells are crescent shaped.
 4. Detects RecA localizations using intensity values above a customizable threshold found using empirical Cumulative Distribution.
+
